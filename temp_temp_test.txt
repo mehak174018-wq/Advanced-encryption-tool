@@ -1,0 +1,4 @@
+This is a test file for encryption.
+Name: Anjali
+Project: Advanced Encryption Tool
+This file should be encrypted and decrypted safely.
