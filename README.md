@@ -38,7 +38,7 @@ A secure and user-friendly file encryption and decryption tool built using Pytho
 
 ## 📦 Installation
 
-1. Clone the repository:e https://github.com/anjalistudio-png/advanced-encryption-tool.git
+1. Clone the repository:e https://github.com/mehakstudio-png/advanced-encryption-tool.git
 
 
 2. Create virtual environment:python -m venv venv
@@ -90,7 +90,7 @@ venv\Scripts\activate
 
 ## 👩‍💻 Author
 
-**Anjali**  
+**Mehak**  
 Cybersecurity Intern (CodTech)
 
 ---
